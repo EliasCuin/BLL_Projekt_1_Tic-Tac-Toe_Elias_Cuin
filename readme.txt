@@ -1,6 +1,9 @@
 Autor: Elias Cuin
 Erstes BLL-Projekt: "Tic-Tac-Toe-KI"
 
+Replit-Link dieses Projektes: https://replit.com/@eliasCui/Tic-Tac-Toe-KI#main.py   (starten: main.py)
+(Das Benutzen von Replit kann manchmal zu Bugs in dem Tic-Tac-Toe-Projekt führen.)
+
 #___ Python-Abhängigkeiten ___
 
 Für das Starten des Programms muss Tensorflow und Python heruntergeladen werden:
